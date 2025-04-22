@@ -1,0 +1,8 @@
+*{
+    overflow-y: scroll;
+    scrollbar-width: none;
+}
+#hidee{
+    overflow: hidden;
+}
+@import "tailwindcss"
