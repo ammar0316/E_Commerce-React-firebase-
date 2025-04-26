@@ -3,7 +3,7 @@ import SinIn from "./components/SinIn";
 import Login from "./components/LogIn";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Home from "./components/Home";
-import About from "./Components/About";
+import About from "./components/About";
 import Contect from "./Components/Contect";
 import Service from "./Components/Service";
 
