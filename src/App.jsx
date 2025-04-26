@@ -4,8 +4,8 @@ import Login from "./components/LogIn";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Home from "./components/Home";
 import About from "./components/About";
-import Contect from "./Components/Contect";
-import Service from "./Components/Service";
+import Contect from "./components/Contect";
+import Service from "./components/Service";
 
 import NotFound from "./components/NotFound";
 
